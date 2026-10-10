@@ -69,10 +69,7 @@
 .page-title p{color:var(--fg-dim);margin:0}
 
 .site-footer{
-  border-top:1px solid var(--line);
-  padding:2rem 0;color:var(--fg-dimmer);
-  font-size:.88rem;text-align:center;
-  position:relative;z-index:2;
+  display:none;
 }
 
 @media(max-width:720px){
